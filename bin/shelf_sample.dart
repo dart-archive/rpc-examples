@@ -13,7 +13,7 @@ import 'package:shelf/shelf.dart' as shelf;
 import 'package:shelf/shelf_io.dart' as shelf_io;
 import 'package:shelf_route/shelf_route.dart' as shelf_route;
 
-import 'package:rpc-examples/toyapi.dart';
+import 'package:rpc_examples/toyapi.dart';
 
 const _API_PREFIX = '/api';
 final ApiServer _apiServer =

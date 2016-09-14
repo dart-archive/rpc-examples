@@ -8,7 +8,7 @@ import 'package:logging/logging.dart';
 import 'package:logging_handlers/server_logging_handlers.dart';
 import 'package:rpc/rpc.dart';
 
-import 'package:rpc-examples/toyapi.dart';
+import 'package:rpc_examples/toyapi.dart';
 
 const String _API_PREFIX = '/api';
 final ApiServer _apiServer =
