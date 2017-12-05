@@ -1,5 +1,4 @@
 name: rpc_examples
-version: 0.1.0
 author: Dart Team <misc@dartlang.org>
 description: Examples on using the rpc package.
 homepage: https://github.com/dart-lang/rpc-examples
